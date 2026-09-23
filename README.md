@@ -1,6 +1,6 @@
 Olá, eu sou Yago Guilherme 👋
 
-Desenvolvedor Full Stack em formação
+Desenvolvedor Full Stack
 
 💻 React • TypeScript • Node.js • PostgreSQL
 🗺️ APIs • Geoprocessamento • Visualização de Dados
